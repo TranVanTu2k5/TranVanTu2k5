@@ -58,7 +58,7 @@ Currently, I'm focusing on modern testing methodologies, automated testing frame
 
 | Category | Technologies |
 |-----------|--------------|
-| Languages & Runtime | ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| Languages & Runtime | ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
 | Frameworks & Testing | ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-FF7F00?style=for-the-badge&logo=testng&logoColor=white) |
 | ORM & Databases | ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
 | Development Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white) |
@@ -68,7 +68,7 @@ Currently, I'm focusing on modern testing methodologies, automated testing frame
 # Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,js,selenium,html,css,git,docker,postgres,sqlite,visualstudio,vscode,idea" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,selenium,html,css,git,docker,postgres,sqlite,visualstudio,vscode,idea" alt="Tech Stack Icons"/>
 </p>
 
 ---
@@ -139,13 +139,13 @@ An automation testing project focused on validating functionality of the Paraban
 
 ---
 
-# GitHub Statistics
+# GitHub Statistics & Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=TranVanTu2k5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TranVanTu2k5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=TranVanTu2k5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranVanTu2k5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -153,14 +153,6 @@ An automation testing project focused on validating functionality of the Paraban
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=TranVanTu2k5&theme=tokyonight" alt="GitHub Streak Stats"/>
-</p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/TranVanTu2k5/TranVanTu2k5/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Grid"/>
 </p>
 
 ---
