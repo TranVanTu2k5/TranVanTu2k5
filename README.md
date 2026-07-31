@@ -46,7 +46,7 @@ Currently, I'm improving my skills in automated testing frameworks, CI/CD pipeli
 
 
 
-🏫 Ho Chi Minh City University of Industry and Trade (HUIT)
+🏫 Ho Chi Minh City University of Industry and Trade (HUFLIT)
 
 
 
