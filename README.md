@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="700" alt="Coding Animated GIF"/>
+  <img src="https://media.giphy.com/media/qgQUGG4dbv5BL4GYnm/giphy.gif" width="700" alt="Cyberpunk Coding Animated GIF"/>
 </p>
 
 # Hi there, I'm Trần Văn Tú 👋
