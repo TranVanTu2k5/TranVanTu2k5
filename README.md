@@ -6,7 +6,7 @@
 
 # Hi there, I'm Trần Văn Tú 👋
 
-### Third-year Software Engineering Student at HUIT
+### Software Engineering Student at HUIT
 
 ### Aspiring SQA Engineer & IT Professional
 
@@ -139,9 +139,9 @@ An automation testing project focused on validating functionality of the Paraban
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TranVanTu2k5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=TranVanTu2k5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranVanTu2k5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=TranVanTu2k5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
 
