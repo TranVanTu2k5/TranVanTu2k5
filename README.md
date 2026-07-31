@@ -1,12 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Trần%20Văn%20Tú&fontSize=50&fontAlign=50&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20SQA%20%26%20Backend%20Enthusiast&descAlign=50&descAlignY=60"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Coding Animated GIF"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Trần+Văn+Tú+👋;Software+Engineering+Student;Aspiring+SQA+Engineer;Software+Testing+Enthusiast;Always+Learning+New+Technologies" />
+# Hi there, I'm Trần Văn Tú 👋
+
+### Third-year Software Engineering Student at HUFLIT
+
+### Aspiring SQA Engineer & IT Professional
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=TranVanTu2k5&style=for-the-badge&color=blueviolet)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TranVanTu2k5&style=for-the-badge&color=blueviolet" alt="Profile Views Counter" />
+</p>
 
 </div>
 
@@ -14,7 +22,7 @@
 
 # About Me
 
-I'm a student focusing on **Software Engineering** and **Software Quality Assurance (SQA)** at **HUIT**.
+I'm a third-year **Software Engineering** student at **Ho Chi Minh City University of Foreign Languages and Information Technology (HUFLIT)**.
 
 I enjoy building web applications using **ASP.NET Core MVC** and ensuring software quality through **Automation Testing** and modern software architecture practices.
 
@@ -22,9 +30,9 @@ Currently, I'm improving my skills in automated testing frameworks, CI/CD pipeli
 
 ## Education
 
-🏫 Ho Chi Minh City University of Industry and Trade (HUIT)
+🏫 Ho Chi Minh City University of Foreign Languages and Information Technology (HUFLIT)
 
-🎓 Major: Software Engineering / IT
+🎓 Major: Software Engineering
 
 📚 Current Status: Third-year Student
 
