@@ -6,7 +6,7 @@
 
 # Hi there, I'm Trần Văn Tú 👋
 
-### Third-year Software Engineering Student at HUFLIT
+### Third-year Software Engineering Student at HUIT
 
 ### Aspiring SQA Engineer & IT Professional
 
@@ -26,19 +26,11 @@
 
 # About Me
 
-I'm a third-year **Software Engineering** student at **Ho Chi Minh City University of Foreign Languages and Information Technology (HUFLIT)**.
+I'm a student focusing on **Software Engineering** and **Software Testing**.
 
 I have a strong passion for **Software Quality Assurance (SQA)** and automation testing. I enjoy ensuring software quality, analyzing requirements, and building automated test scripts to improve development workflows.
 
 Currently, I'm focusing on modern testing methodologies, automated testing frameworks, software architecture, and cloud technologies.
-
-## Education
-
-🏫 Ho Chi Minh City University of Foreign Languages and Information Technology (HUFLIT)
-
-🎓 Major: Software Engineering
-
-📚 Current Status: Third-year Student
 
 ---
 
@@ -139,7 +131,11 @@ An automation testing project focused on validating functionality of the Paraban
 
 ---
 
-# GitHub Statistics & Activity
+# GitHub Activity & Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TranVanTu2k5&theme=tokyonight" alt="GitHub Streak Stats"/>
+</p>
 
 <div align="center">
 
@@ -148,12 +144,6 @@ An automation testing project focused on validating functionality of the Paraban
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranVanTu2k5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
-
-</br>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TranVanTu2k5&theme=tokyonight" alt="GitHub Streak Stats"/>
-</p>
 
 ---
 
