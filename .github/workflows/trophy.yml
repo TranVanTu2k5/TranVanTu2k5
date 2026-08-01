@@ -1,0 +1,28 @@
+name: Generate GitHub Trophy SVG
+
+on:
+  # Tự động chạy mỗi ngày vào lúc 0h UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Cho phép bấm chạy thủ công bằng tay bất cứ lúc nào
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Trophy SVG
+        run: |
+          mkdir -p output
+          curl -s "https://github-profile-trophy.vercel.app/?username=TranVanTu2k5&theme=onedark&column=6" -o output/trophy.svg
+
+      - name: Commit and Push Trophy SVG
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add output/trophy.svg
+          git commit -m "Update GitHub Trophy SVG" || exit 0
+          git push
