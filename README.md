@@ -145,7 +145,7 @@ https://github.com/TranVanTu2k5/ParabankTest
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TranVanTu2k5&theme=onedark&column=7" alt="TranVanTu2k5 Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=TranVanTu2k5&theme=flat&no-frame=true&column=6" alt="TranVanTu2k5 Trophies" />
   </a>
 </p>
 
