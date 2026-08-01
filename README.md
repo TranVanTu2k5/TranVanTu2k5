@@ -143,10 +143,6 @@ https://github.com/TranVanTu2k5/ParabankTest
 
 # GitHub Statistics
 
-<p align="center">
-  <img src="./trophy.svg" alt="GitHub Trophies" />
-</p>
-
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=TranVanTu2k5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
