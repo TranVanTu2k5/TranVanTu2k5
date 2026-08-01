@@ -144,7 +144,7 @@ https://github.com/TranVanTu2k5/ParabankTest
 # GitHub Statistics
 
 <p align="center">
-  <img src="https://github.com/TranVanTu2k5/TranVanTu2k5/blob/main/output/trophy.svg" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/TranVanTu2k5/TranVanTu2k5/main/output/trophy.svg" alt="GitHub Trophies" />
 </p>
 
 <div align="center">
@@ -169,7 +169,7 @@ https://github.com/TranVanTu2k5/ParabankTest
 
 <p align="center">
 
-<img src="https://github.com/TranVanTu2k5/TranVanTu2k5/blob/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/TranVanTu2k5/TranVanTu2k5/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
